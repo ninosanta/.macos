@@ -1,0 +1,116 @@
+tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/core"
+brew "bat"  # cat but better
+brew "bottom"  # Yet another cross-platform graphical process/system monitor
+brew "emacs"
+brew "exa"  # Modern replacement for `ls`
+brew "cmake"
+brew "fd"  # Simple, fast and user-friendly alternative to find
+brew "ffmpeg"
+brew "ffsend"  # ex-firefox send CLI
+brew "gcc"
+brew "m-cli"  # Swiss Army Knife for macOS
+brew "gawk"
+brew "gdb"
+brew "git"
+brew "git-extras"   # Small git utilities
+brew "git-lfs"  # Git extension for versioning large files
+brew "git-secrets"   # Prevents you from committing sensitive information to a git repo
+brew "bfg"  # Remove large files or passwords from Git history like git-filter-branch
+brew "htop"
+brew "iftop"  # Display an interface's bandwidth usage
+brew "inetutils"  # GNU utilities for networking
+brew "mas"  # Mac App Store command line interface
+brew "nmap"  # port scanning
+#brew "node@16"  # install via n
+brew "n"  # Node version manager
+brew "openssl@3"
+#brew "python"
+#brew "pipenv"
+brew "pyenv"
+#brew "rust"  # install via rustup!
+brew "stow"
+brew "tldr"
+brew "tmux"  # A terminal multiplexer, allowing to access multiple separate terminal sessions
+#brew "reattach-to-user-namespace"  # Reattach process (e.g., tmux) to background
+brew "tree"
+#brew "watch"
+brew "wget"
+brew "youtube-dl"
+cask "alfred"  # Boosts your efficiency with hotkeys, keywords, text expansion and more
+cask "alt-tab"  # game changer
+cask "appcleaner"
+#cask "audacity"  # cannot record playback audio
+cask "bartender"  # Organize the menu bar icons
+cask "cheatsheet"  # Know your shortcuts
+cask "clion"
+cask "cloudflare-warp"
+#cask "discord"
+cask "dropbox"
+cask "firefox"
+cask "google-chrome"
+cask "iterm2"
+cask "linkliar"  # MAC spoofing GUI for macOS
+cask "maccy" # clipboard history manager
+cask "mpv"
+cask "onyx"  # System Utilities for macOS ~ ccleaner
+#cask "pycharm"
+cask "qbittorrent"
+cask "spotify"
+cask "stats"  # macOS system monitor in your menu bar
+cask "suspicious-package"  # An Application for Inspecting macOS Installer Packages
+cask "telegram"
+cask "tor-browser"
+cask "visual-studio-code"
+cask "vlc"
+cask "webstorm"
+cask "wireshark"
+#cask "zoom"
+cask "microsoft-office"
+
+mas "Amphetamine", id: 937984704  # The most awesome keep-awake app
+mas "GoodNotes 5", id: 1444383602
+mas "Amazon Prime Video", id: 545519333
+mas "KeePassium", id: 1435127111
+
+cask "utm"
+cask "gimp"
+cask "betterzip"
+cask "keyboardcleantool"
+cask "pdf-reader-pro"
+brew "zsh-syntax-highlighting"
+brew "qemu"
+brew "zsh-autosuggestions"
+brew "romkatv/powerlevel10k/powerlevel10k"
+cask "font-jetbrains-mono-nerd-font"
+cask "font-ubuntu-nerd-font"
+cask "font-meslo-lg-nerd-font"
+cask "skim"
+brew "ocrmypdf"
+brew "tesseract-lang"  # needed by ocrmypdf
+mas "Vinegar - Tube Cleaner", id: 1591303229
+mas "Baking Soda - Tube Cleaner", id: 1601151613
+cask "adobe-acrobat-reader"
+cask "pdf-reader-pro"
+cask "zoom"
+mas "Pure Paste", id: 1611378436
+mas "HotKey", id: 975890633
+mas "MenubarX", id: 1575588022
+cask "latest"
+cask "tempbox"
+cask "shottr"
+cask "imageoptim"
+cask "balenaetcher"
+mas "Keepa", id: 1533805339
+mas "Keepassium", id: 1435127111
+cask "iina"
+brew "neofetch"  # shows os info
+brew "yt-dlp"  # fork of youtube-dl
+cask "numi"  # OP calculator and converter
+brew "flawfinder"  # reports C code flaws
+brew "radare2"  # reverse engineering framework
+brew "grandperspective"  # files info management
+brew "notable"  # markdown notes
+cask "thunderbird"
+cask "the-unarchiver"

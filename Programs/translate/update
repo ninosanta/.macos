@@ -1,0 +1,5 @@
+#! /bin/bash
+
+rm -f trans
+wget git.io/trans
+chmod +x ./trans

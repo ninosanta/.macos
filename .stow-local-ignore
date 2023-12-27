@@ -1,0 +1,10 @@
+# Files to be ignored by GNU Stow in the current directory
+
+\.git
+\.gitignore
+LICENSE
+README\.md
+
+\.DS_Store
+
+bootstrap\.sh
